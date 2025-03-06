@@ -10,7 +10,6 @@ A Flutter-based habit tracker and daily task management app with Firebase backen
 - 🔐 User authentication (email/password and anonymous)
 - 💾 Cloud sync with Firebase
 - 📱 Cross-platform (Android, iOS)
-- 📊 Task analytics and progress tracking
 - 🗓️ Future task scheduling
 
 ## Screenshots
