@@ -16,9 +16,9 @@ A Flutter-based habit tracker and daily task management app with Firebase backen
 
 <table>
   <tr>
-    <td><img src="https://via.placeholder.com/250x500?text=Login+Screen" alt="Login Screen"></td>
-    <td><img src="https://via.placeholder.com/250x500?text=Tasks+Screen" alt="Tasks Screen"></td>
-    <td><img src="https://via.placeholder.com/250x500?text=Calendar+View" alt="Calendar View"></td>
+    <td><img src="https://i.imgur.com/iSFvlio.png" alt="Login Screen"></td>
+    <td><img src="https://i.imgur.com/ctvfwpC.png" alt="Tasks Screen"></td>
+    <td><img src="https://i.imgur.com/qfFWlFK.png" alt="Calendar View"></td>
   </tr>
 </table>
 
